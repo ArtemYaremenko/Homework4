@@ -25,7 +25,7 @@ public class Main {
         if (speed > 60) {
             System.out.println("Если скорость " + speed + " , то придется заплатить штраф");
         } else {
-            System.out.println("Если скорость \" + speed + \" , то можно ездить спокойно");
+            System.out.println("Если скорость " + speed +  ", то можно ездить спокойно");
         }
 
         //Task 4
@@ -83,13 +83,6 @@ public class Main {
 
         //Task 7
         System.out.println("\nTask 7");
-        //Даны три числа:
-        //
-        //int one;
-        //int two;
-        //int three;
-        //
-        //С помощью условного оператора и конструкции else напишите программу, которая вычисляет, какое из трех чисел бо́льшее, и выводит результат в консоль.
         int one = 1;
         int two = 3;
         int three = 2;
